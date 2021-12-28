@@ -1,0 +1,11 @@
+p {
+    font-size: 16px;
+    background-color: rgb(196, 190, 190);
+    padding: 3px;
+    margin: 5px;
+}
+
+code {
+    margin-left: 1.5em;
+    font-style: italic;
+}

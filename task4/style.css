@@ -1,0 +1,6 @@
+a {
+    color: rgb(33, 37, 41);
+    text-decoration: overline underline;
+    text-decoration-style:wavy;
+    text-decoration-color: rgb(196, 190, 190);
+}
